@@ -1,0 +1,9 @@
+datasketch
+jupyterlab
+matplotlib
+nltk
+numpy
+pandas
+scikit-learn
+scipy
+wordcloud
